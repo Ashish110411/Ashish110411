@@ -34,13 +34,6 @@
 
 # 📊 GitHub Stats:
 
-[//]: # (![]&#40;https://github-readme-streak-stats.herokuapp.com/?user=Ashish110411&theme=dark&hide_border=false&#41;<br/>)
-
-[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish110411&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&#41;<br/>)
-
-<!-- GitHub Streak Stats (using Demolab mirror for reliability) -->
-<img src="https://streak-stats.demolab.com/?user=Ashish110411&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
-
 <!-- GitHub Top Languages (Vercel-hosted) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish110411&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
