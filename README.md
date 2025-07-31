@@ -7,7 +7,7 @@
 ## 🔥 About Me
 
 - 🎓 I’m a Computer Science Engineer passionate about building scalable web apps
-- 🌱 Currently working on **Spring Boot + React** based dynamic portfolio generator
+- 🌱 Currently working on ![ResuGen](https://github.com/Ashish110411/ResuGen)
 - 🚀 Interested in Full Stack, Game Development, and AI/ML domains
 - 💬 Ask me about **Java, Spring Boot, Python, Machine Learning, MySQL, Git, Data Science, Game Development**
 - 📫 Reach me at **ashishchaudhary110411@gmail.com**
